@@ -16,3 +16,5 @@
 ## 參考資訊
 
 * [ExifTool by Phil Harvey](http://owl.phy.queensu.ca/~phil/exiftool/)
+* [FileTypesMan - Alternative to 'File Types' manager of Windows](http://www.nirsoft.net/utils/file_types_manager.html)
+  * `"C:\ProgramData\chocolatey\bin\exiftool.exe" -Model="Ricoh Theta S" -Make="Ricoh" "%1"`

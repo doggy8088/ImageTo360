@@ -11,4 +11,4 @@ REM
 
 SET LC_ALL=C
 
-EXIFTOOL -Model="Ricoh Theta S" -Make="Ricoh" %1
+EXIFTOOL -Model="Ricoh Theta S" -Make="Ricoh" "%1"
